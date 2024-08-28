@@ -21,4 +21,4 @@ cd $project
 touch index.html style.css readme.md
 
 #Afficher un phrase succes
-echo Le projet a ete ajoute
+echo Le projet a ete ajoute !!
